@@ -1,0 +1,19 @@
+{
+  "name": "creating-first-server-10567",
+  "version": "1.0.0",
+  "description": "first node.js server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arunkumar-60/creating-first-server-10567.git"
+  },
+  "author": "Arun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arunkumar-60/creating-first-server-10567/issues"
+  },
+  "homepage": "https://github.com/Arunkumar-60/creating-first-server-10567#readme"
+}
